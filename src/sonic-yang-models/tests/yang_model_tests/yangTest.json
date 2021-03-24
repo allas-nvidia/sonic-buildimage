@@ -1239,6 +1239,9 @@
                 },
                 "DEBUG_COUNTER": {
                     "FLEX_COUNTER_STATUS": "enable"
+                },
+                "PG_DROP": {
+                    "FLEX_COUNTER_STATUS": "enable"
                 }
             }
         }
@@ -1321,6 +1324,9 @@
 					"FLEX_COUNTER_STATUS": "enable"
 				},
                 "DEBUG_COUNTER": {
+                    "FLEX_COUNTER_STATUS": "enable"
+                },
+                "PG_DROP": {
                     "FLEX_COUNTER_STATUS": "enable"
                 }
 			}
